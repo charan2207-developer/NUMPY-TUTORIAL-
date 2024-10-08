@@ -1,8 +1,6 @@
 # NUMPY-TUTORIAL-
 this is Numpy tutorial for the begginers which is done by me 
-Here's a detailed overview of the NumPy code snippets you provided, formatted for your GitHub README. You can modify it as needed.
-
----
+--------------------------------------------------------------
 
 % NumPy Code Snippets
 
@@ -308,6 +306,3 @@ print(z, "\n")
 ```
 - Demonstrates element-wise arithmetic operations between arrays.
 
----
-
-Feel free to add any additional sections or modify the explanations as needed!
